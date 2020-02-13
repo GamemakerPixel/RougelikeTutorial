@@ -15,10 +15,9 @@ _global_script_class_icons={
 
 [application]
 
-config/name="Project"
+config/name="Rougelike Tutorial"
 config/icon="res://icon.png"
 
 [rendering]
 
-environment/default_clear_color=Color( 0.0117647, 0.109804, 0.0980392, 1 )
 environment/default_environment="res://default_env.tres"
